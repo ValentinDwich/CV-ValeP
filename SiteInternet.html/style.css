@@ -1,0 +1,19 @@
+h1
+{
+	color: black;
+}
+
+body
+{
+	background-color: bisque;
+}
+
+
+#carte
+{
+	width: 840px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
